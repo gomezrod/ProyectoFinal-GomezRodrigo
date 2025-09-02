@@ -1,13 +1,17 @@
-
+import './Input.css';
 
 export default function Input(props) {
   return (
-    <input
-        className="input"
-        type={props.type}
-        value={props.value}
-        onChange={props.onChange}
-        placeholder={props.placeholder}
-    />
+    <>
+        <label htmlFor={"search"}></label>
+        <input
+            className="input"
+            id="search"
+            type={props.type}
+            value={props.value}
+            onChange={props.onChange}
+            placeholder={props.placeholder}
+        />
+    </>
   );
 }

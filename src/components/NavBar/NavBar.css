@@ -61,15 +61,27 @@
         padding: 0;
         margin: 0;
 
-        li {
-            a {
-                color: white;
-                text-decoration: none;
+        a {
+            color: white;
+            text-decoration: none;
 
-                &:hover {
-                    text-decoration: underline;
-                }
+            &:hover {
+                text-decoration: underline;
             }
         }
+    }
+}
+
+.navLink {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    &.active {
+        font-weight: bolder;
     }
 }
