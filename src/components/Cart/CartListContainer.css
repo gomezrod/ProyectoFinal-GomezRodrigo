@@ -1,0 +1,9 @@
+.cart-list-container {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.unidad-item {
+    font-weight: bold;
+}

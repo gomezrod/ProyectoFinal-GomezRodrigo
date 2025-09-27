@@ -2,7 +2,20 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
     background-color: #000000;
     padding: 10px;
     border-radius: 5px;
+    filter: opacity(0.5);
+    transition: filter, 0.5s;
+
+    &:hover{
+        filter: opacity(1);
+    }
+}
+
+.cart-widget.visible{
+    filter: opacity(1);
 }

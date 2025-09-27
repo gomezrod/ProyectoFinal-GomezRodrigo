@@ -3,12 +3,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
-    border-radius: 8px;
-    max-width: 600px;
-    margin: 20px auto;
-    text-align: center;
-    background-color: #f9f9f9;
+    padding: 2rem;
+   
 
     ul {
         display: flex;
@@ -22,5 +18,41 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+    }
+}
+
+.cerrar-detalle {
+    align-self: flex-end;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    padding: 5px 10px;
+    
+    border-radius: 10%;
+    background-color: #f0f0f0;
+    transition: background-color 0.3s, color 0.3s;
+
+    &:hover {
+        background-color: #333;
+        color: #fff;
+    }
+}
+
+.light {
+    background-color: #f0f0f0;
+    color: #333;
+
+    h2 {
+        color: #333;
+    }
+}
+
+.dark {
+    background-color: #333;
+    color: #f0f0f0;
+
+    h2 {
+        color: #f0f0f0;
     }
 }

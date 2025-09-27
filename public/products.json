@@ -1,6 +1,7 @@
 {
     "products": [
         {
+            "id": 1,
             "title": "Kit Profesional de Extensiones de Pestañas",
             "price": 109.95,
             "description": "Kit completo para la aplicación profesional de extensiones de pestañas, incluye pinzas, adhesivo y pestañas de diferentes grosores.",
@@ -9,6 +10,7 @@
             "stock": 25
         },
         {
+            "id": 2,
             "title": "Adhesivo Premium para Extensiones",
             "price": 22.3,
             "description": "Adhesivo de secado rápido y larga duración, ideal para aplicaciones profesionales de extensiones de pestañas.",
@@ -17,6 +19,7 @@
             "stock": 50
         },
         {
+            "id": 3,
             "title": "Removedor de Adhesivo en Gel",
             "price": 55.99,
             "description": "Removedor en gel para eliminar extensiones de pestañas de manera segura sin dañar las pestañas naturales.",
@@ -25,6 +28,7 @@
             "stock": 40
         },
         {
+            "id": 4,
             "title": "Pestañas Volumen Ruso 0.07D",
             "price": 15.99,
             "description": "Bandeja de pestañas de volumen ruso con curvatura D, perfectas para looks dramáticos y llenos de volumen.",
@@ -33,6 +37,7 @@
             "stock": 70
         },
         {
+            "id": 5,
             "title": "Pinzas Curvas de Precisión",
             "price": 18.5,
             "description": "Pinzas de acero inoxidable con punta curva para una aplicación precisa de extensiones de pestañas.",
@@ -41,6 +46,7 @@
             "stock": 30
         },
         {
+            "id": 6,
             "title": "Microcepillos Desechables (100 unidades)",
             "price": 12.0,
             "description": "Cepillos desechables ideales para la aplicación de primer, removedor y limpieza de pestañas.",
@@ -49,6 +55,7 @@
             "stock": 100
         },
         {
+            "id": 7,
             "title": "Primer de Preparación de Pestañas",
             "price": 9.99,
             "description": "Preparador de pestañas para una mejor adherencia del adhesivo y mayor duración de las extensiones.",
@@ -57,6 +64,7 @@
             "stock": 35
         },
         {
+            "id": 8,
             "title": "Espejo de Mano para Revisar Extensiones",
             "price": 10.99,
             "description": "Espejo ergonómico que permite revisar la aplicación de extensiones desde diferentes ángulos.",
@@ -65,6 +73,7 @@
             "stock": 20
         },
         {
+            "id": 9,
             "title": "Bandeja de Pestañas Clásicas 0.15C",
             "price": 16.0,
             "description": "Pestañas individuales con curvatura C, ideales para técnicas clásicas y naturales.",
@@ -73,6 +82,7 @@
             "stock": 60
         },
         {
+            "id": 10,
             "title": "Gel Parches para Aislamiento de Pestañas (50 pares)",
             "price": 14.0,
             "description": "Parches de gel para proteger y aislar las pestañas inferiores durante la aplicación.",
@@ -81,6 +91,7 @@
             "stock": 80
         },
         {
+            "id": 11,
             "title": "Cepillos Spoolie Desechables (50 unidades)",
             "price": 8.99,
             "description": "Cepillos desechables para peinar pestañas durante y después de la aplicación.",
@@ -89,6 +100,7 @@
             "stock": 90
         },
         {
+            "id": 12,
             "title": "Nano Mister Hidratante",
             "price": 29.5,
             "description": "Nano mister para sellar el adhesivo y reducir la irritación después de la aplicación.",
@@ -97,6 +109,7 @@
             "stock": 15
         },
         {
+            "id": 13,
             "title": "Bandeja Pestañas Mega Volumen 0.05D",
             "price": 18.0,
             "description": "Pestañas ultra ligeras y finas para crear abanicos de mega volumen fácilmente.",
@@ -105,6 +118,7 @@
             "stock": 50
         },
         {
+            "id": 14,
             "title": "Desinfectante de Herramientas",
             "price": 11.99,
             "description": "Solución desinfectante para limpiar herramientas y mantener la higiene en el área de trabajo.",
@@ -113,6 +127,7 @@
             "stock": 40
         },
         {
+            "id": 15,
             "title": "Kit Básico para Estudiantes",
             "price": 65.0,
             "description": "Kit económico con lo esencial para comenzar en el mundo de las extensiones de pestañas.",
@@ -121,6 +136,7 @@
             "stock": 25
         },
         {
+            "id": 16,
             "title": "Lámpara LED Ajustable para Trabajo",
             "price": 49.99,
             "description": "Lámpara con luz LED blanca y brazo flexible, ideal para trabajos de precisión.",
@@ -129,6 +145,7 @@
             "stock": 10
         },
         {
+            "id": 17,
             "title": "Mascarilla KN95 para Procedimientos",
             "price": 1.99,
             "description": "Mascarilla de protección respiratoria ideal para profesionales y clientes durante el procedimiento.",
@@ -137,6 +154,7 @@
             "stock": 200
         },
         {
+            "id": 18,
             "title": "Ventilador Portátil para Secado",
             "price": 15.99,
             "description": "Ventilador compacto para acelerar el secado de adhesivos en extensiones de pestañas.",
@@ -145,6 +163,7 @@
             "stock": 20
         },
         {
+            "id": 19,
             "title": "Bandeja de Pestañas Coloridas",
             "price": 19.5,
             "description": "Pestañas en colores vibrantes para looks creativos y personalizados.",
@@ -153,6 +172,7 @@
             "stock": 35
         },
         {
+            "id": 20,
             "title": "Silla Ergonómica para Profesional",
             "price": 120.0,
             "description": "Silla ajustable y cómoda diseñada especialmente para trabajos prolongados en estética.",

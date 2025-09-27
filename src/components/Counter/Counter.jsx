@@ -1,21 +1,22 @@
 import './Counter.css'
-import { useState } from 'react'
 import Button from '../Button/Button.jsx'
+import { useContext } from 'react'
+import { CountContext } from '../../context/CountContext.jsx'
 
-export default function Counter() {
+export default function Counter({className}) {
 
-    const [count, setCount] = useState(0);
+    const {count, decrementCounter, incrementCounter} = useContext(CountContext);
 
     const clickUp = () => {
-        setCount(count + 1)
+        incrementCounter()
     }
 
     const clickDown = () => {
-        setCount(count <= 0 ? 0 : count - 1)
+        decrementCounter()
     }
 
     return (
-        <div className="counter">
+        <div className={className}>
             <span>{count}</span>
              <Button className='boton-counter' onClick={clickDown}
                               children="-"
