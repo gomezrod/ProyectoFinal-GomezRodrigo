@@ -3,6 +3,8 @@ Este proyecto es una aplicación de **e-commerce** desarrollada con **React** qu
 Cuenta con una **interfaz amigable para los clientes** y un **panel de administración** accesible desde la ruta `/admin` que permite la gestión avanzada de la base de datos de productos.
 
 ---
+## 🔗 Link al deploy
+-[Deploy en Vercel](https://proyecto-final-gomez-rodrigo.vercel.app/)
 
 ## 🚀 Características
 
